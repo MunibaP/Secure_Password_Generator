@@ -1,7 +1,7 @@
 # Secure_Password_Generator
 
 ## Description
-In this week challenge #3, I was tasked to modify an starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app is an browser-based application which means it will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. Likwise, the final application have a integrated clean and polished, responsive user interface that adapts to multiple screen sizes. In addition, the application is run as series of propmts to help the users meets certain criteria to generate their secure password.
+In this week challenge #3, I was tasked to modify an starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app is an browser-based application which means it will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. Likewise, the final application have a integrated clean and polished, responsive user interface that adapts to multiple screen sizes. In addition, the application is run as series of propmts to help users meets certain criteria to generate their secure password.
 
 ## Acceptance Criteria
 GIVEN I need a new, secure password
@@ -38,9 +38,9 @@ THEN the password is either displayed in an alert or written to the page
 The technologies I used in this challenge includes:
 1. HTML: template working HTML file was given that structure the basic layout of the password generator application.
 2. CSS: template working CSS file was given which included the styling of the password generator application.
-3. Js: JavaScript ro interact with websites and browsers, and to connect servers to websites as well as web applications.
+3. Js: JavaScript interact with websites and browsers, and to connect servers to websites as well as web applications.
 4.  Github: Github was used to create a repository which includes the links to the projects, assets folder, and the README file.
-5. Giblab: Giblab was used to clone the project to our laptop.
+5. Gitlab: Gitlab was used to clone the project to our laptop.
 
 ## Installation
 
@@ -77,7 +77,8 @@ To clone: git clone https://github.com/your-username/repository-name.git
 
  ![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_6.png)
  
-   ![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_7.png)
+  
+  ![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_7.png)
     
 
 ## Resources
