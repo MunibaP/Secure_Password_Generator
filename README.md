@@ -30,8 +30,10 @@ THEN I find a concise, descriptive title
 The technologies I used in this challenge includes:
 1. HTML: template HTML was given to refactor the codebase of a Marketing Agency website called Horiseon.
 2. CSS: template CSS was given to make necessary changes.
-3. Github: Gibhub was used to create a repository which includes the links to the projects, assets folder, and the README file.
-4. Giblab: Giblab was used to clone the project to our laptop.
+3. Js: JavaScript to interact with websites and browsers, and to connect servers to websites as well as web applications.
+4. Github: Gibhub was used to create a repository which includes the links to the projects, assets folder, and the README file.
+5. Gitlab: Gitlab was used to clone the project to our laptop.
+   
 
 ## Installation
 
