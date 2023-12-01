@@ -60,7 +60,24 @@ To clone: git clone https://github.com/your-username/repository-name.git
 
 ## Screenshot
 
-   ![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_1.jpeg)
+ ![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_1.jpeg)
+ 
+ 
+![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_2.png)
+
+
+ ![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_3.png)
+ 
+ 
+![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_4.png)
+
+
+![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_5.png)
+
+
+ ![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_6.png)
+ 
+   ![Challenge#3_JavaScript | Secure_Password_Generator](Assets/images/img_7.png)
     
 
 ## Resources
@@ -68,6 +85,15 @@ To clone: git clone https://github.com/your-username/repository-name.git
 
 [MDN web docs_JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+## Links
+
+[GitHub Repository link](https://github.com/MunibaP/Secure_Password_Generator.git)
+
+[Deployment link](https://munibap.github.io/Secure_Password_Generator/)
+
+## License
+
+Redistribution of the CVW software or derived works must reproduce MITRE's copyright designation and this License in the documentation and/or other materials provided with the distribution.Copyright © 1994-1999. The MITRE Corporation (http://www.mitre.org/). All Rights Reserved.
 
 
 
